@@ -1,0 +1,45 @@
+.about-area .img2 img, .about-area .img3 img{
+    height:310px;
+    width:320px;
+    object-fit: cover;
+}
+
+.about-area .img1 img {
+    height: 630px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.tour-box_img img {
+    height: 220px;
+}
+
+.gallery-area .box-img img{
+    height: 200px;
+}
+
+#blog-sec .blog-img img{
+    height:300px;
+}
+
+.category-area .box-img img{
+    height:280px!important;
+} 
+
+.serv .destination-box .destination-img img{
+    height:400px!important;
+}
+
+@media(max-width:576px){
+    .gallery-area .box-img img{
+        height: 300px!important;
+    } 
+    
+    .gallery-area .middle_img img{
+        height: 300px!important;
+    } 
+    
+    .about-area .img1 img {
+        height: 250px!important;
+    }
+}
