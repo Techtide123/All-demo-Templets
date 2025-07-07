@@ -1,0 +1,30 @@
+.sp-image{
+    width:100%!important;
+    object-fit: cover;
+    background-size: cover;
+    margin-left:0px!important;
+    object-position: center 35%;
+}
+
+.about-image {
+    margin-left: 144px;
+    /* font-size: 15px; */
+    height: 400px;
+    border-radius: 150px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+    width: 500px;
+}
+
+.section-video {
+    background: url(../new_photos/bg.jpg) no-repeat !important;
+    background-size: cover !important;
+    background-position: center;
+    background-color: #00000099 !important;
+    background-blend-mode: multiply;
+}
+
+.section-reviews {
+    background: url(../new_photos/testimonial.jpg) no-repeat!important;
+    background-size: cover!important;
+}
